@@ -2,8 +2,11 @@ migrations = "./migrations"
 debug = true
 
 [pg]
-user="postgres"
-database="demo"
+user = "postgres"
+database = "demo"
 
 [jwt]
-default=false
+default = false
+
+[ssl]
+mode = "disable"
