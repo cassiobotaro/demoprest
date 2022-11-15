@@ -260,4 +260,6 @@ More details at the [docs](https://docs.prestd.com/prestd/api-reference/plugins/
 
 I hope you enjoy this demo.
 
-There a lot of more features like [scripts](), [templates](), [cors](), etc. Try it yourself!
+There a lot of more features like [scripts](https://docs.prestd.com/prestd/docs/api-reference/queries/), [templates](https://docs.prestd.com/prestd/docs/api-reference/queries/#template-functions), [cors](https://docs.prestd.com/prestd/docs/deployment/cors-support/), [cache](https://docs.prestd.com/prestd/deployment/cache/) etc.
+
+Try it yourself!
